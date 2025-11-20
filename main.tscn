@@ -152,7 +152,7 @@ surface_material_override/0 = SubResource("StandardMaterial3D_a202f")
 script = ExtResource("1_ig7tw")
 
 [node name="Cabezal" type="MeshInstance3D" parent="Cabezal"]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 0, 12.9421, 0)
+transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 30.4713, 12.3204, -4.81231)
 mesh = SubResource("BoxMesh_h2yge")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="Cabezal"]
